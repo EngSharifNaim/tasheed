@@ -1,0 +1,33 @@
+[28-May-2018 22:44:38 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/dev5/public_html/snood/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[28-May-2018 22:44:57 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/dev5/public_html/snood/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[28-May-2018 22:45:00 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/dev5/public_html/snood/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[28-May-2018 22:45:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/dev5/public_html/snood/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[28-May-2018 22:45:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/dev5/public_html/snood/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[28-May-2018 22:45:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/dev5/public_html/snood/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[28-May-2018 22:45:02 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/dev5/public_html/snood/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[28-Jun-2018 16:37:57 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/dev5/public_html/snood/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[28-Jun-2018 16:38:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/dev5/public_html/snood/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[28-Jun-2018 16:38:02 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/dev5/public_html/snood/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[28-Jun-2018 16:38:02 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/dev5/public_html/snood/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[28-Jun-2018 16:38:03 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/dev5/public_html/snood/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[28-Jun-2018 16:38:04 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/dev5/public_html/snood/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[28-Jun-2018 16:49:44 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/dev5/public_html/snood/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[28-Jun-2018 16:49:46 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/dev5/public_html/snood/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[30-Dec-2018 01:36:35 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/tsheedse/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[30-Dec-2018 01:36:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/tsheedse/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[20-Jan-2019 22:51:51 UTC] PHP Warning:  Uncaught ErrorException: require(/home/tsheedse/public_html/routes/api.php): failed to open stream: No such file or directory in /home/tsheedse/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php:393
+Stack trace:
+#0 /home/tsheedse/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(393): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/t...', '/home/tsheedse/...', 393, Array)
+#1 /home/tsheedse/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(393): require()
+#2 /home/tsheedse/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(349): Illuminate\Routing\Router->loadRoutes('/home/tsheedse/...')
+#3 /home/tsheedse/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(105): Illuminate\Routing\Router->group(Array, '/home/tsheedse/...')
+#4 /home/tsheedse/public_html/app/Providers/RouteServiceProvider.php(71): Illuminate\Routing\RouteRegistrar->group('/home/tsheedse/...')
+#5 /home/tshee in /home/tsheedse/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 393
+[20-Jan-2019 22:51:51 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home/tsheedse/public_html/routes/api.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/tsheedse/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 393
+[03-Feb-2019 22:30:35 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/tsheedse/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[03-Feb-2019 22:30:40 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/tsheedse/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[03-Feb-2019 22:30:42 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/tsheedse/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[03-Feb-2019 22:30:53 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/tsheedse/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[03-Feb-2019 22:30:56 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/tsheedse/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[03-Feb-2019 22:31:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/tsheedse/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[03-Feb-2019 22:31:08 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/tsheedse/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233

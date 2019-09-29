@@ -1,0 +1,364 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,800');
+
+body {
+	direction: ltr;
+	text-align: left;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.copouns h1,
+.bread-crumb ul,
+.nav1,
+.footer-list,
+.head-footer2,
+.nav1 > li > ul,
+h4.head,
+.footer-copyright,
+.pro-info,
+.bread-crumb li a,
+.side-navegation li,
+.content-copouns,
+.table-view,
+.menu-well ul {
+	text-align: left;
+}
+
+.test {
+	display: block !important;
+	width: 100%;
+}
+
+.search-frm {
+	margin-left: 55px;
+	position: relative;
+	margin-right: 0;
+}
+
+i.search-btn.fa.fa-search {
+	position: absolute;
+	left: 20px;
+	top: 16px;
+}
+
+.nav1 > li > ul {
+	right: inherit;
+	left: 255px;
+	padding-left: 10px;
+}
+
+.lazy .slick-prev {
+	right: 80px;
+	left: inherit;
+}
+
+.slick-next {
+    right: 50px;
+    left: inherit;
+}
+
+.slick-prev {
+	right: 70px;
+	top: -40px;
+	left: inherit;
+}
+
+h4.head {
+	color: #a2a2a2;
+}
+
+
+
+ul.nav1 li a {
+	font-size: 13px !important;
+}
+
+
+form#newlettersform button#sizing-addon1 {
+	right: 0;
+	left: inherit;
+	border-radius: 0 5px 5px 0;
+}
+
+form#newlettersform .form-control {
+	width: 350px;
+}
+
+.footer-bottom a {
+	display: block;
+	float: right;
+}
+
+div#loading {
+	display: none;
+}
+
+#mainproducts button.slick-prev, #mainproducts button.slick-next {
+    top: -61px;
+}
+
+.lazy2 button.slick-prev {
+    right: 10px;
+    left: inherit;
+}
+
+.main-home .col-lg-2 {
+    padding-left: 0;
+    padding-right: 15px;
+}
+
+.main-home .col-lg-3 {
+    padding-left: 15px;
+    padding-right: 9px;
+}
+
+.dropdown-cart .item-cart {
+    left: inherit;
+    right: 0;
+}
+
+.cart-item .pic-item {
+    float: left;
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.pull-right {
+    float: left;
+}
+.pull-left {
+    float: right;
+}
+
+.bread-crumb ul {
+    margin-left: 0;
+    margin-right: 30px;
+}
+
+.cetgory-serchbox {
+    right: 12px;
+    left: inherit;
+}
+
+.card-header .mb-0 p {
+    float: left;
+}
+
+.card-header .mb-0 button, .card-header .mb-0 a {
+    float: right;
+}
+
+#section_result .form-check-input {
+    margin-left: -1.25rem;
+    margin-right: 0;
+}
+
+.check-text {
+    text-align: left;
+}
+
+.check-filter {
+    float: left;
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.pagination li a {
+    line-height: initial;
+    border: 0;
+    width: auto;
+}
+.bread-crumb ul {
+    margin-left: 0;
+    margin-right: 30px;
+}
+
+.cetgory-serchbox {
+    right: 12px;
+    left: inherit;
+}
+
+.card-header .mb-0 p {
+    float: left;
+}
+
+.card-header .mb-0 button, .card-header .mb-0 a {
+    float: right;
+}
+
+#section_result .form-check-input {
+    margin-left: -1.25rem;
+    margin-right: 0;
+}
+
+.check-text {
+    text-align: left;
+}
+
+.check-filter {
+    float: left;
+    margin-left: 0;
+    margin-right: 5px;
+}
+.user-content ul a.user-img-list {
+    float: left;
+    margin-right: 10px;
+    margin-left: 0;
+}
+
+.user-content ul li h5 span {
+    left: inherit;
+    right: 10px;
+}
+
+form.navbar-form i.chat-search.fa.fa-search {
+    right: 10px;
+    left: inherit;
+}
+form#newlettersform button#sizing-addon1 {
+    border-radius: 0;
+}
+
+.slick-initialized .slick-slide {
+	position: relative;
+}
+
+.price {
+	position: absolute;
+	bottom: 0;
+	margin: 0;
+	left: 10px;
+	right: 0;
+}
+
+section#last_features_products {
+	margin-bottom: 60px;
+}
+
+.fa-angle-left:before {
+	content: "\f105";
+}
+
+.bread-crumb li a {
+	margin-left: 10px;
+	margin-right: 0;
+}
+
+.bread-crumb li a i {
+	margin-left: 10px;
+}
+
+.side-navegation a i {
+	float: right;
+	-webkit-transform: rotate(180deg);
+	transform: rotate(180deg);
+}
+
+.edite-data {
+	float: right;
+}
+
+.search-form {
+	left: 30px;
+	right: inherit;
+}
+
+.track-order-btn,
+.track-order-btn:hover {
+	float: right;
+}
+
+.middile-nav .container form {
+	left: 330px;
+	right: inherit;
+}
+
+.middile-nav .container .m-auto {
+	left: inherit;
+	right: 0;
+}
+
+.menu-well span#navv,
+a#dropdownMenuButton span#navv {
+	right: -10px;
+	left: inherit;
+}
+
+.text-price {
+    margin-left: 40%;
+    margin-right: 0;
+}
+
+.lazy .slick-prev {
+    right: 10px;
+}
+
+.slick-list {
+    margin-right: -27px;
+    margin-left: 0;
+}
+
+.slick-slide {
+    margin-right: 27px;
+    margin-left: 0;
+}
+
+.slider-nav {
+    display: inline-block;
+}
+
+.slider-nav li {
+    display: inline-block;
+}
+
+.slider-nav li a {
+    margin-right: 9px;
+}
+
+#last_products button.slick-prev, #last_products button.slick-next {
+    top: -60px;
+}
+
+.slick-prev, .slick-next {
+    top: -45px;
+}
+
+.pro-info {
+    min-height: 180px;
+}
+
+.menu-site {
+    right: inherit;
+    left: -280px;
+}
+
+.menu-site.fix-menu-tab {
+    right: inherit;
+    left: 0;
+}
+
+a#close {
+    left: 244px;
+}
+
+.menu-site li.sub-menu a i {
+    float: right;
+}
+
+figure.d-block.img-fluid a {
+    position: static !important;
+}
+
+[class*=' imghvr-'] figcaption, [class^=imghvr-] figcaption {
+    position: static !important;
+    display: table-header-group;
+}

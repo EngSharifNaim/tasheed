@@ -1,0 +1,1 @@
+@foreach ($regions as $region)<option value="0">{{ __('admin.region_choose') }}</option>	@if($current == $region->id)	<option value="{{ $region->id }}" selected>{{ $region->name_ar }} - {{ $region->name_en }}</option>	@else	<option value="{{ $region->id }}" >{{ $region->name_ar }} - {{ $region->name_en }}</option>	@endif@endforeach

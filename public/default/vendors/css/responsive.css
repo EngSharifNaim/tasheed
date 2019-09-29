@@ -1,0 +1,271 @@
+@media (max-width:450px) {
+    
+    .flex-column {
+    -webkit-box-orient: block-axis;
+    -webkit-box-direction: normal!important;
+    -ms-flex-direction: column!important;
+    flex-direction: row-reverse !important;
+}
+    #scrollDown{
+        display: none;
+    }
+    #scrollUp{
+        display: none;
+    }
+}
+@media (max-width: 576px) {
+
+    .mob-hide{
+        display: none !important;
+    }
+    .second-menu{
+        display:none !important;
+    }
+    .title {
+    border: 1px solid #ccc;
+    padding: 5px;
+    background-color: #f3f3f3;
+    z-index: 9999;
+    position: relative;
+    bottom: 51px;
+}
+    .price{
+    background-color: #f63;
+    width: 25%;
+    position: relative;
+    bottom: 130px;
+    padding: 7px;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    z-index: 9999999;
+        }
+    .slideheight{
+     width: 100%;
+        max-height: none;
+    }
+    .bg-dark {
+    background-color: #111111!important;
+    height: 40px;
+}
+    .svae-form {
+    float: left;
+    position: relative;
+    right: 0;
+    background-color: #f63;
+    border-radius: 20px;
+    padding: 8px 24px;
+    font-size: 13px;
+    border: none;
+    bottom: 26px;
+}
+    
+    .img-right{
+            float: right;
+    width: 48%;
+    margin-top: 10px;
+    }
+    .img-left{
+            float: left;
+    width: 48%;
+    margin-top: 10px;
+    }
+    .slider-nav{
+        display: none;
+    }
+    .mobile-margin{
+        margin-bottom: 25px;
+    }
+    .left-banner{
+        display: none;
+    }
+    .slider {
+    width: 83%;
+    margin: 100px auto;
+}
+    .quick-view{
+        display: none;
+    }
+    .banner-mobile{
+        width: 100%;
+    }
+    .input-group{
+        width: 75%
+    }
+    
+    
+    .title-faq {
+    text-align: center;
+    color: #0b0b0b;
+    font-size: 21px;
+    margin: 41px 0;
+}
+    .track-order-btn {
+    position: relative;
+    top: 113px;
+    float: left;
+    background-color: #f63;
+    border-radius: 20px;
+    border: none;
+    padding: 8px 42px;
+    position: static;
+}
+    .head-title-orders{
+        display: none;
+    }
+    .search-form {
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content;
+    position: relative;
+    /* top: 28px; */
+    right: 30px;
+    background-color: #f63;
+    border-radius: 20px;
+    padding: 8px 24px;
+    font-size: 13px;
+    border: none;
+    margin-bottom: 20px;
+}
+}
+
+
+@media (max-width: 768px) { 
+  
+    .second-menu{
+        display:none !important;
+      
+    }
+    
+    .svae-form {
+    float: left;
+    position: relative;
+    right: 0;
+    background-color: #f63;
+    border-radius: 20px;
+    padding: 8px 24px;
+    font-size: 13px;
+    border: none;
+    bottom: 26px;
+}
+   
+     .img-right{
+        float: right;
+    }
+    .img-left{
+        float: left;
+   
+    }
+    .product-description {
+    font-size: 14px;
+    color: #999999;
+    line-height: 1;
+    text-align: right;
+}
+    .provider {
+    position: relative;
+    right: 5%;
+}
+    .arrows-slider {
+    position: relative;
+    left: 4px;
+    border: 1px solid #ccc;
+    padding: 7px;
+    color: #999;
+    top: -2px;
+}
+     .banner-mobile{
+        width: 100%;
+         margin-bottom: 20px;
+    }
+    .responsive-space img{
+            margin-bottom: 20px;
+        width: 100%;
+        
+    }
+    .input-group{
+        width: 75%
+    }
+    .left-banner{
+        display: none;
+    }
+    
+    .title-faq {
+    text-align: center;
+    color: #0b0b0b;
+    font-size: 21px;
+    margin: 41px 0;
+}
+        .track-order-btn {
+    position: relative;
+    top: 113px;
+    float: left;
+    background-color: #f63;
+    border-radius: 20px;
+    border: none;
+    padding: 8px 42px;
+    position: static;
+}
+    .head-title-orders{
+        display: none;
+    }
+   
+}
+
+
+@media (max-width: 992px) { 
+
+        .img-right{
+            float: right;
+    width: 48%;
+    margin-top: 10px;
+    }
+    .img-left{
+            float: left;
+    width: 48%;
+    margin-top: 10px;
+    }
+
+.input-group{
+        width: 75%
+    }
+    .left-banner{
+        display: none;
+    }
+    
+.svae-form {
+    float: left;
+    position: relative;
+    right: 0;
+    background-color: #f63;
+    border-radius: 20px;
+    padding: 8px 24px;
+    font-size: 13px;
+    border: none;
+    bottom: 26px;
+}
+        .track-order-btn {
+    position: relative;
+    top: 113px;
+    float: left;
+    background-color: #f63;
+    border-radius: 20px;
+    border: none;
+    padding: 8px 42px;
+    position: static;
+}
+    .head-title-orders {
+    margin-left: 14px;
+    font-size: 13px;
+    color: #666666;
+}
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (max-width: 1200px) { 
+
+
+
+
+
+}
